@@ -1,7 +1,3 @@
-# Java Learning Hub Privacy Policy
-
-**Last updated:** October 28, 2026
-
 Java Learning Hub is an educational application designed to help users learn Java programming through lessons, code examples, quizzes, and English and Telugu language support.
 
 ## Information and app progress
@@ -35,6 +31,4 @@ This policy may be updated when the app's functionality, data practices, or lega
 Developer: Krishna Shanigaram
 
 Contact email: krrish.12@gmail.com
-
-Before publishing, verify this policy against the app's actual behavior and replace or expand any incomplete statements. This policy is a draft, not a legal compliance certification.
 
