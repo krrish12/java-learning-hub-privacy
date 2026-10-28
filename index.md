@@ -2,7 +2,7 @@ Java Learning Hub is an educational application designed to help users learn Jav
 
 ## Information and app progress
 
-The app provides learning content and may store learning progress on the user's device. Confirm the app's actual storage behavior before publishing this policy.
+The app provides learning content and may store learning progress on the user's device. 
 
 ## Advertising
 
@@ -12,7 +12,7 @@ For more information, review Google's advertising and privacy information: https
 
 ## Data sharing
 
-Information may be processed by third-party services used by the app, including advertising services. Confirm which SDKs are included and accurately describe the data they collect and share.
+Information may be processed by third-party services used by the app, including advertising services. Cl
 
 ## Children's privacy
 
